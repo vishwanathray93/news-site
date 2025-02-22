@@ -30,7 +30,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/news-website.git
+git clone https://github.com/vishwanathray93/news-site.git
 
 Navigate to the project directory:
 
@@ -50,22 +50,9 @@ Start a local server using XAMPP or another PHP environment
 
 Open the project in your browser:
 
-http://localhost/news-website
-
-Admin Panel
+https://vishunews.com/
 
 Access the admin panel at:
-
-http://localhost/news-website/admin
-
-Default Admin Credentials:
-
-Username: admin
-
-Password: admin123
-
-Usage
-
 Users can browse, search, and read news articles
 
 Admins can log in to create, edit, and delete articles
